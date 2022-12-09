@@ -1,4 +1,4 @@
-# .Net Goof
+# .Net Goof Project
 
 1. Open a terminal and clone the repository
 
